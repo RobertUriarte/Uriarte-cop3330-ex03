@@ -1,6 +1,6 @@
 /*
  *  UCF COP3330 Summer 2021 Assignment 1 Solution
- *  Copyright 2021 
+ *  Copyright 2021 Robert Uriarte
  */
 import java.util.Scanner;
 public class Exercise3 {
